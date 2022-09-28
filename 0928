@@ -1,1 +1,17 @@
-# 隱寫數
+# 第一份作業
+
+ - 隱寫數
+ - 圖片隱寫（圖像隱寫術）
+  - 將信息保存再png.jpg.bmp等圖片格式中。
+  - 可將素素的表轉為素數，再轉為一組，並以ASCII碼，將隱藏的原樣轉換為我們的10張圖片，然後再轉為替換為每張圖片的使用，替換為每張圖片最後一位數。
+  - 相關工具：QuickStego、Steghide、zsteg、HxD、CryptaPix、BinWalk
+ - 文件隱寫（文件隱寫）
+  - 可以將圖片或隱藏消息在文件中。
+  - 相關工具：StegoStick、StegJ
+ - 影片隱寫（視頻隱寫術）
+  - 相關工具：OmniHide、StegoStick、OpenPuff
+  - 聲音隱寫（音頻隱寫術）
+  - 相關工具：WavSteg、AudioStego、DeepSound
+ - 資料夾隱寫(文件夾隱寫)
+ - 網頁隱寫（網絡隱寫術）
+ - 電子郵件隱寫(Email Steganography)
